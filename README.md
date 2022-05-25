@@ -10,11 +10,11 @@ MLTD - WorDOL Helper
 
 1. 워돌에서 임의의 유닛을 입력한다.
 
-![image-20220525191339528](C:\Users\master\AppData\Roaming\Typora\typora-user-images\image-20220525191339528.png)
+![image-20220525191339528](README.assets/image-20220525191339528.png)
 
 2. 워돌 결과를 보고 정보를 파악한다.
 
-   ![image-20220525191626151](C:\Users\master\AppData\Roaming\Typora\typora-user-images\image-20220525191626151.png)
+   ![image-20220525191626151](README.assets/image-20220525191626151.png)
 
    - 프린세스 속성의 아이돌은 없다.
    - 아리사, 카나, 메구미를 유닛에서 제외한다.
@@ -23,7 +23,7 @@ MLTD - WorDOL Helper
 
 3. 파악한 정보를 워돌 헬퍼에 입력한다.
 
-   ![image-20220525191755084](C:\Users\master\AppData\Roaming\Typora\typora-user-images\image-20220525191755084.png)
+   ![image-20220525191755084](README.assets/image-20220525191755084.png)
 
    - **포함 아이돌**: 없음
    - **제외할 아이돌**: 아리사 카나 메구미 (띄어쓰기로 구분, 이름만 입력)
@@ -32,13 +32,13 @@ MLTD - WorDOL Helper
 
 4. 결과창 리스트에서 유닛을 선정하고 워돌에 입력한다. (반복)
 
-   ![image-20220525192350580](C:\Users\master\AppData\Roaming\Typora\typora-user-images\image-20220525192350580.png)
+   ![image-20220525192350580](README.assets/image-20220525192350580.png)
 
    - 타카네 포함
    - 아즈사 치하야 제외
    - 페어리 1명
 
-   ![image-20220525192443073](C:\Users\master\AppData\Roaming\Typora\typora-user-images\image-20220525192443073.png)
+   ![image-20220525192443073](README.assets/image-20220525192443073.png)
 
    - 정답 확인
 
