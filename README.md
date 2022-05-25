@@ -10,7 +10,7 @@ MLTD - WorDOL Helper
 
 1. 워돌에서 임의의 유닛을 입력한다.
 
-![image-20220525191339528](README.assets/image-20220525191339528.png)
+   ![image-20220525191339528](README.assets/image-20220525191339528.png)
 
 2. 워돌 결과를 보고 정보를 파악한다.
 
@@ -42,7 +42,7 @@ MLTD - WorDOL Helper
 
    - 정답 확인
 
-   ![image-20220525192741013](C:\Users\master\AppData\Roaming\Typora\typora-user-images\image-20220525192741013.png)
+   ![image-20220525192741013](README.assets/image-20220525192741013.png)
 
 
 
